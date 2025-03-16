@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\VR\\VRFORVAL\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\github\\vr\\vrforval\\my project\\assets\\suimono - water system 2\\_suimono2.1_readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\suimono - water system 2\\_suimono2.1_readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Suimono2.1_ReadMe.txt",
+              "DocumentMoniker": "D:\\Github\\VR\\VRFORVAL\\My project\\Assets\\SUIMONO - WATER SYSTEM 2\\_Suimono2.1_ReadMe.txt",
+              "RelativeDocumentMoniker": "Assets\\SUIMONO - WATER SYSTEM 2\\_Suimono2.1_ReadMe.txt",
+              "ToolTip": "D:\\Github\\VR\\VRFORVAL\\My project\\Assets\\SUIMONO - WATER SYSTEM 2\\_Suimono2.1_ReadMe.txt",
+              "RelativeToolTip": "Assets\\SUIMONO - WATER SYSTEM 2\\_Suimono2.1_ReadMe.txt",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-16T21:10:16.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
